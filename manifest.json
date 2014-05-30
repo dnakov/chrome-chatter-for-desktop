@@ -1,0 +1,19 @@
+{
+    "name": "Chatter for Desktop",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "description": "Unofficial Chatter Desktop alternative. Uses Salesforce1",
+    "icons": {
+        "128": "images/icon-128.png"
+    },
+  "app": {
+    "background": {
+      "page":"background.html"
+    }
+  },
+    "default_locale": "en",
+    "permissions": [
+    "<all_urls>",
+    "webview"
+    ]
+}
