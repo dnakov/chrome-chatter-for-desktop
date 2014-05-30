@@ -14,6 +14,8 @@
     "default_locale": "en",
     "permissions": [
     "<all_urls>",
-    "webview"
+    "webview",
+    "storage",
+    "background"
     ]
 }
